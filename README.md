@@ -1,7 +1,5 @@
 - 👋 Hola, soy @lsariego
 - 👀 Soy desarrollador Front End
-- 🌱 Actualmente me encuentro estudiando Node JS
-- 💞️ Me interesa ser parte de proyectos web escalables usando React JS
 - 📫 Puedes contactarme a través de leonardo.egnen@gmail.com
 
 <!---
